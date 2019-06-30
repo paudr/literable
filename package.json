@@ -11,8 +11,8 @@
     "sequence"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/frikeldon/literable.git"
+    "type": "git",
+    "url": "https://github.com/frikeldon/literable.git"
   },
   "homepage": "https://github.com/frikeldon/literable#readme",
   "bugs": "https://github.com/frikeldon/literable/issues",
