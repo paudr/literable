@@ -1,0 +1,29 @@
+{
+  "name": "literable",
+  "version": "1.0.0",
+  "description": "A library for work with iterators inspired in .Net LINQ",
+  "main": "literable.js",
+  "keywords": [
+    "collection",
+    "enumerable",
+    "generator",
+    "iterator",
+    "sequence"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/frikeldon/literable.git"
+  },
+  "homepage": "https://github.com/frikeldon/literable#readme",
+  "bugs": "https://github.com/frikeldon/literable/issues",
+  "author": "Pau Drudis <frikeldon@gmail.com> (https://paudr.com)",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "mocha": "^6.1.4"
+  }
+}
