@@ -27,6 +27,10 @@ console.log(`The sum of all pair natural numbers below 1001 is ${pairsSum}`);
 
 ## Api
 
+* **[Literable.empty](docs/_empty.md)**: Returns an empty sequence that has the specified type argument.
+* **[Literable.from](docs/_from.md)**: Create a new sequence with given iterator.
+* **[Literable.range](docs/_range.md)**: Generates a sequence of integral numbers within a specified range.
+* **[Literable.repeat](docs/_repeat.md)**: Generates a sequence that contains one repeated value.
 * **[aggregate](docs/aggregate.md)**: Applies an accumulator function over a sequence.
 * **[all](docs/all.md)**: Determines whether all elements of a sequence satisfy a condition.
 * **[any](docs/any.md)**: Determines whether any element of a sequence exists or satisfies a condition.
